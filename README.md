@@ -30,18 +30,18 @@ The school Board delivered the raw data in two comma separated files:
 ![Original analysis results](Dist_summary_original.PNG)  
 ![Results without THS ninth graders](Dist_summary_without_THS_9.PNG)  
 - How is the school summary affected?  
-    Removing the ninth grade students from the THS data did not significantly change the results of the composite analysis.  
-    The percentage of students that passed the math and reading exams is slightly lower without the ninth grade data.  
-    The average math score is slightly lower and the average reading score is slightly higher without the ninth grade.  
+   - Removing the ninth grade students from the THS data did not significantly change the results of the composite analysis.  
+   - The percentage of students that passed the math and reading exams is slightly lower without the ninth grade data.  
+   - The average math score is slightly lower and the average reading score is slightly higher without the ninth grade.  
 ![THS scores with ninth grade included](THS_data_original.PNG)  
 ![THE scores without ninth grade scores](THS_data_without_9.PNG)  
 - How does replacing the ninth graders math and reading scores affect tghomas High School's performance relative to other schools?
-    Prior to removing the THS ninth grade scores THS ws the second highest performing school behind Cabrera High School with 91% of students passing both reading and math.  
-    After removing the THS ninth grade students exam results THS remains the second highest performing school with only a slight decrease in the percentage of students passing both exams (~0.3% change).  
+   - Prior to removing the THS ninth grade scores THS ws the second highest performing school behind Cabrera High School with 91% of students passing both reading and math.  
+   - After removing the THS ninth grade students exam results THS remains the second highest performing school with only a slight decrease in the percentage of students passing both exams (~0.3% change).  
 ![Top 5 performing schools with THS ninth graders included](Top_5_performing_schools_original.PNG)  
 ![Top 5 performing schools without THS ninth graders](Top_5_performing_schools_without_THS_9.PNG)  
 - How did removing the THS ninth grade data affect the scores by grade, the scores by spending, the scores by size, and the scores by school type?
-    The results do not change after removing the THS ninth grade data with the exception of the data by grade and by school.  The data for the THS ninth grade students is nan (null) 
+   - The results do not change after removing the THS ninth grade data with the exception of the data by grade and by school.  The data for the THS ninth grade students is nan (null)  
 ![Math scores by grade and school](Math_scores_by_grade_and_school.PNG)  
 ![Reading scores by grade and school](Reading_scores_by_grade_and_school.PNG)  
 The updated results of the analysis for scores binned by spending, size, and type are presented below  
